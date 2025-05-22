@@ -5,15 +5,15 @@
     "logo": "/assets/Uppsala.jpg",
     "bg": "/assets/backgrount.png",
     "members": [
-      { "name": "John", "role": "Captain", "age": 27, "runs": 240 },
-      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 },
-      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200 },
-      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150 },
-      { "name": "John", "role": "Captain", "age": 27, "runs": 240 },
-      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 },
-      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200 },
-      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150 },
-      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 }
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.jpg" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 ,"image": "/assets/san.jpg"},
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/ana.jpg" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/sam.jpg" },
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.jpg" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.jpg" },
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.jpg" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.jpg" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.jpg" }
     ]
   },
   {
@@ -22,8 +22,15 @@
   "logo": "../assets/Stockholm.jpg",
   "bg": "../assets/backgrount.png",
   "members": [
-    { "name": "Alex", "role": "Captain", "age": 28, "runs": 300 },
-    { "name": "Sam", "role": "Vice-Captain", "age": 26, "runs": 220 }
+    { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 ,"image": "/assets/virat.png"},
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" },
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" }
   ]
 },
 {
@@ -32,8 +39,15 @@
     "logo": "/assets/Uppsala.jpg",
     "bg": "/assets/backgrount.png",
     "members": [
-      { "name": "John", "role": "Captain", "age": 27, "runs": 240 },
-      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 }
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 ,"image": "/assets/virat.png"},
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" },
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" }
     ]
   },
   {
@@ -42,8 +56,15 @@
   "logo": "../assets/Stockholm.jpg",
   "bg": "../assets/backgrount.png",
   "members": [
-    { "name": "Alex", "role": "Captain", "age": 28, "runs": 300 },
-    { "name": "Sam", "role": "Vice-Captain", "age": 26, "runs": 220 }
+    { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 ,"image": "/assets/virat.png"},
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" },
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" }
   ]
 },
 {
@@ -52,8 +73,15 @@
     "logo": "/assets/Uppsala.jpg",
     "bg": "/assets/backgrount.png",
     "members": [
-      { "name": "John", "role": "Captain", "age": 27, "runs": 240 },
-      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 }
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 ,"image": "/assets/virat.png"},
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" },
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" }
     ]
   },
   {
@@ -62,8 +90,15 @@
   "logo": "../assets/Stockholm.jpg",
   "bg": "../assets/backgrount.png",
   "members": [
-    { "name": "Alex", "role": "Captain", "age": 28, "runs": 300 },
-    { "name": "Sam", "role": "Vice-Captain", "age": 26, "runs": 220 }
+    { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 ,"image": "/assets/virat.png"},
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" },
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" }
   ]
 },
 {
@@ -72,8 +107,15 @@
   "logo": "../assets/Stockholm.jpg",
   "bg": "../assets/backgrount.png",
   "members": [
-    { "name": "Alex", "role": "Captain", "age": 28, "runs": 300 },
-    { "name": "Sam", "role": "Vice-Captain", "age": 26, "runs": 220 }
+    { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.jpg" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 ,"image": "/assets/virat.jpg"},
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.jpg" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.jpg" },
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.jpg" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.jpg" },
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.jpg" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.jpg" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.jpg" }
   ]
 },
 {
@@ -82,8 +124,15 @@
   "logo": "../assets/Stockholm.jpg",
   "bg": "../assets/backgrount.png",
   "members": [
-    { "name": "Alex", "role": "Captain", "age": 28, "runs": 300 },
-    { "name": "Sam", "role": "Vice-Captain", "age": 26, "runs": 220 }
+    { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 ,"image": "/assets/virat.png"},
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" },
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200,"image": "/assets/virat.png" },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150,"image": "/assets/virat.png" },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180,"image": "/assets/virat.png" }
   ]
 }
 

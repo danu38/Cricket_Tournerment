@@ -1,7 +1,7 @@
-import { useParams, useNavigate } from 'react-router-dom';
-import { useEffect, useState } from 'react';
-import './TeamDetail.css';
-import teamData from '../data/teams.json';
+import { useParams, useNavigate } from "react-router-dom";
+import { useEffect, useState } from "react";
+import "./TeamDetail.css";
+import teamData from "../data/teams.json";
 
 const TeamDetail = () => {
   const { id } = useParams();
@@ -13,7 +13,7 @@ const TeamDetail = () => {
     if (foundTeam) {
       setTeam(foundTeam);
     } else {
-      navigate('/');
+      navigate("/");
     }
   }, [id, navigate]);
 
@@ -33,16 +33,28 @@ const TeamDetail = () => {
               className={`member-card ${member.role.toLowerCase()}`}
             >
               <div className="photo-placeholder">
-                <span>{member.name.charAt(0)}</span>
+                {member.image ? (
+                  <img
+                    src={member.image}
+                    alt={member.name}
+                    className="member-photo"
+                  />
+                ) : (
+                  <span>{member.name.charAt(0)}</span> // fallback if no image
+                )}
               </div>
               <h3>{member.name}</h3>
-              <p><strong>Role:</strong> {member.role}</p>
+              <p>
+                <strong>Role:</strong> {member.role}
+              </p>
               <p>Age: {member.age}</p>
               <p>Runs: {member.runs}</p>
             </div>
           ))}
         </div>
-        <button className="back-button" onClick={() => navigate(-1)}>← Back</button>
+        <button className="back-button" onClick={() => navigate(-1)}>
+          ← Back
+        </button>
       </div>
     </div>
   );
