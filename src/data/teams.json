@@ -1,0 +1,90 @@
+[
+  {
+    "id": "uppsala",
+    "name": "Uppsala Warriors",
+    "logo": "/assets/Uppsala.jpg",
+    "bg": "/assets/backgrount.png",
+    "members": [
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240 },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 },
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200 },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150 },
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240 },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 },
+      { "name": "Sam", "role": "Batsman", "age": 24, "runs": 200 },
+      { "name": "Alex", "role": "Bowler", "age": 26, "runs": 150 },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 }
+    ]
+  },
+  {
+  "id": "stockholm",
+  "name": "Stockholm Knights",
+  "logo": "../assets/Stockholm.jpg",
+  "bg": "../assets/backgrount.png",
+  "members": [
+    { "name": "Alex", "role": "Captain", "age": 28, "runs": 300 },
+    { "name": "Sam", "role": "Vice-Captain", "age": 26, "runs": 220 }
+  ]
+},
+{
+    "id": "uppsala",
+    "name": "Uppsala Warriors",
+    "logo": "/assets/Uppsala.jpg",
+    "bg": "/assets/backgrount.png",
+    "members": [
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240 },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 }
+    ]
+  },
+  {
+  "id": "stockholm",
+  "name": "Stockholm Knights",
+  "logo": "../assets/Stockholm.jpg",
+  "bg": "../assets/backgrount.png",
+  "members": [
+    { "name": "Alex", "role": "Captain", "age": 28, "runs": 300 },
+    { "name": "Sam", "role": "Vice-Captain", "age": 26, "runs": 220 }
+  ]
+},
+{
+    "id": "uppsala",
+    "name": "Uppsala Warriors",
+    "logo": "/assets/Uppsala.jpg",
+    "bg": "/assets/backgrount.png",
+    "members": [
+      { "name": "John", "role": "Captain", "age": 27, "runs": 240 },
+      { "name": "Mike", "role": "Vice-Captain", "age": 25, "runs": 180 }
+    ]
+  },
+  {
+  "id": "stockholm",
+  "name": "Stockholm Knights",
+  "logo": "../assets/Stockholm.jpg",
+  "bg": "../assets/backgrount.png",
+  "members": [
+    { "name": "Alex", "role": "Captain", "age": 28, "runs": 300 },
+    { "name": "Sam", "role": "Vice-Captain", "age": 26, "runs": 220 }
+  ]
+},
+{
+  "id": "stockholm",
+  "name": "Stockholm Knights",
+  "logo": "../assets/Stockholm.jpg",
+  "bg": "../assets/backgrount.png",
+  "members": [
+    { "name": "Alex", "role": "Captain", "age": 28, "runs": 300 },
+    { "name": "Sam", "role": "Vice-Captain", "age": 26, "runs": 220 }
+  ]
+},
+{
+  "id": "stockholm",
+  "name": "Stockholm Knights",
+  "logo": "../assets/Stockholm.jpg",
+  "bg": "../assets/backgrount.png",
+  "members": [
+    { "name": "Alex", "role": "Captain", "age": 28, "runs": 300 },
+    { "name": "Sam", "role": "Vice-Captain", "age": 26, "runs": 220 }
+  ]
+}
+
+]
